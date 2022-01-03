@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Images</title>
+</head>
+<body>
+
+<h1 style="text-align: center">Wikishorts images</h1>
+    <br><h2> {{ obj }} </h2>
+
+{% for img in result %}
+<img src = "{{ img }}"/>
+{% endfor %}
+
+</body>
+</html>
+
+<!--<img src ="data:image/jpg;base64,{{ img }}" alt="Red dot" />-->
