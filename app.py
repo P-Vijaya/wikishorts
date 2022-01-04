@@ -126,4 +126,5 @@ if __name__ == "__main__":
     app.run(port=2000,debug=True) # running the app on the local machine on port 5000
 
 
-## https://scrapperwiki.herokuapp.com/
+
+## https://wikiscrapper.herokuapp.com/

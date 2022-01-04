@@ -102,8 +102,6 @@ class WikiScrapper:
         except Exception as e:
             raise Exception(f"(saveDataFrameToFile) - Unable to save data to the file.\n" + str(e))
 
-    #def resop(self):
-        #try
 
     def saveDataTotxt(self,data,file_name):
         """

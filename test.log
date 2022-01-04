@@ -1123,3 +1123,6 @@
 2022-01-03 20:39:28,928:INFO:wiki.py:Text summarized
 2022-01-03 20:39:45,691:INFO:wiki.py:Image links saved in scrapper file
 2022-01-03 20:40:01,819:INFO:wiki.py:Reference links saved in scrapper file
+2022-01-03 22:01:39,164:INFO:wiki.py:Url hitted
+2022-01-03 22:01:48,594:INFO:wiki.py:Search begins for avengers
+2022-01-03 22:01:55,764:INFO:wiki.py:Summarized Data saved in scrapper file
