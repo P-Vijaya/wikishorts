@@ -4,7 +4,7 @@ import json
 
 
 class MongoDBManagement:
-    def __init__(self,username,password):## username: vijaya , password: atlas
+    def __init__(self,username,password):
         """
         This function sets the required url
         """
