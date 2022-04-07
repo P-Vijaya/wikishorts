@@ -42,8 +42,6 @@ https://wikiscrapper.herokuapp.com/
 
 ## Screenshots
 
-<img src="Images/Front.png" width="100" height="50">
-
 ![Landing page](Images/Front.png)
 
 ![Summary](Images/summary.png)
